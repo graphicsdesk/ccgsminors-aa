@@ -7,12 +7,150 @@
       "root": "./src/partials",
       "locals": {
         "top": [],
-        "body": [],
+        "body": [
+          {
+            "type": "text",
+            "value": "Columbia College and the School of General Studies have begun eliminating concentrations in favor of minors in the schools’ biggest curricular change since the introduction of majors over seven decades ago."
+          },
+          {
+            "type": "text",
+            "value": "There are 32 new minors listed with requirements on Columbia College’s and General Studies’ academic bulletins as of Monday. Many programs still remain under review for approval by the Committee on Instruction, which is responsible for determining the undergraduate curriculum and all new programs of study for both schools."
+          },
+          {
+            "type": "text",
+            "value": "These changes come after a November 2023 <a href=\"https://www.columbiaspectator.com/news/2023/11/03/the-beginning-of-a-new-structure-departments-begin-to-envision-new-minors-following-curricular-changes/\">mandate to all departments by the </a>Committee on Instruction to submit proposals for minors by March 2024."
+          },
+          {
+            "type": "text",
+            "value": "The schools are also debuting nine new programs of study this fall: A new major in computational biology and minors in Mediterranean studies; film and media studies; mathematical probability; modern Greek language, literature, and culture; earth and environmental science; earth and space; ecology, evolution, and environmental biology; and history and theory of architecture."
+          },
+          {
+            "type": "text",
+            "value": "Spectator spoke to Columbia College Dean Josef Sorett and Dean of Academic Affairs Lisa Hollibaugh about the design and approval process behind the new programs. Sorett said that the purpose of the changes is to give students a way to fill in the gaps, pedagogically, between the Core Curriculum and their major requirements."
+          },
+          {
+            "type": "text",
+            "value": "“What do you do with the remainder of your courses, right? Do you do something complimentary? Do you experiment? Do you dig deeper into a part of your area of interest?” Sorett said. “ I think what we saw in the minors were multiple ways of thinking about that additional space on students’ calendars or schedules.”"
+          },
+          {
+            "type": "text",
+            "value": "A goal of the Committee on Instruction was to distinguish minors as secondary to majors, according to Hollibaugh. Students in Columbia College and General Studies were previously able to graduate with only a concentration, which historically predated majors at Columbia. Now, students entering after the 2023-24 academic year must complete a major to graduate and cannot graduate with just a minor."
+          },
+          {
+            "type": "text",
+            "value": "Some concentrations were very similar to their major counterparts in terms of required credits and classes. For example, the economics concentration required 34 credits to complete, while the major required 44 credits to complete. In terms of credits, the economics concentration was larger than many popular majors including English, political science, American studies, and philosophy."
+          },
+          {
+            "type": "text",
+            "value": "“The COI was very interested in helping departments think about how a minor was not a ‘baby major,’ but something truly secondary,” Hollibaugh said. “How can you take something that didn’t have to have 10, 12, 16 courses to cover breadth and depth and different approaches in the field?”"
+          },
+          {
+            "type": "text",
+            "value": "Students have the <a href=\"https://bulletin.columbia.edu/columbia-college/requirements-degree-bachelor-arts/\">option</a> to take on a maximum of three programs of study starting this fall: two majors and a minor or a major and two minors. The schools are aiming to fully phase out concentrations within the next few years, but students who matriculated earlier than fall 2024 can still complete a concentration."
+          },
+          {
+            "type": "text",
+            "value": "A general guiding principle for departments, Hollibaugh said, was to keep their minors to around five courses, which can be completed in about a semester or two. However, she said, departments with particularly large concentrations are not required to curb their programs to five courses or immediately update the bulletin with their minors."
+          },
+          {
+            "type": "text",
+            "value": "The biological sciences department, for instance, had a concentration in biology that required, assuming no advanced placement, 55 credits to complete, or around 14 to 15 classes. The redesigned biology minor requires 25 credits to complete, which translates to seven classes."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "minor-concentrations.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "The goal of the shift was to “expose students to something in a field that was meaningful, that was curated by faculty, that created some kind of body of knowledge, but that was still proportionally smaller,” Hollibaugh said."
+          },
+          {
+            "type": "text",
+            "value": "Before the change, departments took different approaches to designing their programs. Some, like mathematics, treated their concentration essentially like a minor. The mathematics concentration required six to seven courses, whereas the new minor requires one fewer elective."
+          },
+          {
+            "type": "text",
+            "value": "But this meant students used to be able to graduate with a concentration in mathematics that did not require certain courses that are assumed <a href=\"https://www.math.columbia.edu/programs-math/graduate-program/what-graduate-students-are-assumed-to-know/\">prerequisites</a> for graduate education. Now, students need to pursue a major in the department, which enforces those prerequisites, to graduate with a mathematics degree."
+          },
+          {
+            "type": "text",
+            "value": "“The possibility of our students to graduate not with a major but only with a concentration, I don’t think that many comparable institutions had something like that,” Julien Dubedat, a mathematics professor and director of undergraduate studies for the mathematics department, said."
+          },
+          {
+            "type": "text",
+            "value": "The phasing out of concentrations puts Columbia’s degree requirements more in line with most other Ivy League institutions. Cornell University, Dartmouth College, Princeton University, and the University of Pennsylvania all offer minors as secondary programs. The School of Engineering and Applied Science and Barnard College already offered minors."
+          },
+          {
+            "type": "text",
+            "value": "Other departments took the mandate as an opportunity to create completely novel programs in specific domain subfields."
+          },
+          {
+            "type": "text",
+            "value": "The Committee on Instruction recently approved a new minor in Mediterranean studies offered through the Italian department. In the past decade, the department hired two professors who specialize in Mediterranean studies and has seen increased student interest in the subfield, according to Konstantina Zanou, director of undergraduate studies for the Italian department and a specialist in Mediterranean studies."
+          },
+          {
+            "type": "text",
+            "value": "“The minor is an opportunity to just experiment with these kinds of concepts that we deal with in our scholarship, but have not yet been translated into administrative structures somehow,” Zanou said."
+          },
+          {
+            "type": "text",
+            "value": "Similarly, the mathematics department is offering a new minor in probability theory. If there is enough interest, Dubedat said, future minors could be offered in other mathematical fields like analysis."
+          },
+          {
+            "type": "text",
+            "value": "The film and media studies department is also offering a new minor, which Rob King, film professor and the department’s former director of undergraduate studies, submitted based on a facultywide proposal."
+          },
+          {
+            "type": "text",
+            "value": "“Every year when I do the academic resources fair … with incoming first-years, I would say that the question ‘Is there a film minor?’ is probably the most common question that I get asked,” King said."
+          },
+          {
+            "type": "text",
+            "value": "King said the shift to minors across Columbia College and General Studies was the “opening” for submitting the proposal for a film minor, but that the idea was already in the works among faculty members for some time before. He also said that there were discussions about minor programs that deal with subfields like television studies."
+          },
+          {
+            "type": "text",
+            "value": "“It’s been important in our planning process, the knowledge that it’s not just a matter of one minor and bust,” King said. “We can begin with a given minor, we can introduce a second, we can introduce a third, or we can change the minor that we introduced in the beginning, and so on and so forth.”"
+          },
+          {
+            "type": "text",
+            "value": "Lastly, departments can opt to offer different pathways to the same minor. The anthropology department is offering an “entry-level” pathway and an “advanced” pathway to obtain a minor in anthropology."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "anthropology-bulletin-annotation.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "The Committee on Instruction hopes to have as many proposals as possible approved by the start of the fall semester with the hope that the new terminology will help students understand the time and commitment required for the updated programs, according to Hollibaugh."
+          },
+          {
+            "type": "text",
+            "value": "“I think because we are using a nomenclature that is more common in higher ed—we have majors and we have minors—both the departments and the students will have some more clarity around ‘What is my level of investment, and my reasons for doing this program … versus that program?’” Hollibaugh said."
+          },
+          {
+            "type": "text",
+            "value": "<i>Deputy Graphics Editor Ayaan Ali can be contacted at ayaan.ali@columbiaspectator.com. Follow him on X </i><a href=\"http://x.com/__ayaanali\"><i>@__ayaanali</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<b><i>Want to keep up with breaking news? Subscribe to our </i></b><a href=\"https://columbiaspectator.us4.list-manage.com/subscribe?u=a3d2eeb1ae5560ca04f82f042&id=e51c51d62d\"><b><i>email newsletter </i></b></a><b><i>and like Spectator on </i></b><a href=\"https://www.facebook.com/columbiaspectator\"><b><i>Facebook</i></b></a><b><i>. </i></b>"
+          }
+        ],
+        "headline": "Columbia College, General Studies begin transition from concentrations to minors",
+        "date": "August 19, 2024",
+        "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/ayaan-ali/\">Ayaan Ali</a>. Graphics by <a href=\"https://www.columbiaspectator.com/contributors/ayaan-ali/\">Ayaan Ali</a>",
+        "cover_asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/A2E4RNVNNBCLTDSPDRKAS4OBFE.jpg",
+        "cover_caption": "Judy Goldstein / Deputy Photo Editor",
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
-        "USE_COVER_HED": false,
+        "USE_COVER_HED": true,
         "IS_EMBED": false,
-        "DOC_URL": null
+        "DOC_URL": "https://docs.google.com/document/d/1INVpgWjdH9Tl1S9Gz9f1vXDC7vfVMTqY5ZiXDtEWH_M/edit"
       }
     }
   }
